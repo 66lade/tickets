@@ -18,7 +18,7 @@ logs:
   files:
     directory: ./logs
     enabled: true
-    keepFor: 30
+    keepFor: 365
   level: info
 presence:
   activities:
